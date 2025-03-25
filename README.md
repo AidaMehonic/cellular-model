@@ -5,24 +5,7 @@
 
 ## About this Repository
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
-
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
-
-### Using this Repository
-
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
-
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
-
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
 <!--If reusing this repository, delete this section -->
 ## About README
